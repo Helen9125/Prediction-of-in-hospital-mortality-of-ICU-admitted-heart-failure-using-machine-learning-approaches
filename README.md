@@ -17,6 +17,8 @@ This project aims to build a machine learning model for the in hospital mortalit
   - Simple vector classifier (SVC)/ Simple vector regression (RFR)
 * Feature importance
   - SHAP for analysis and visualization
+* Datasets
+  - [MIMIC-III Dataset from Kaggle](https://www.kaggle.com/datasets/saurabhshahane/in-hospital-mortality-prediction)
 
 ## Results
 * ROC
